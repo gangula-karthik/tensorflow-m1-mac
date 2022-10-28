@@ -29,7 +29,7 @@ and then run the code below
 import platform
 platform.platform()
 ```
-You should see the same result as before otherwise you have to reinstall python
+You should have the same result as the screenshot below otherwise you have to reinstall python
 <img width="646" alt="Screenshot 2022-10-24 at 1 06 31 PM" src="https://user-images.githubusercontent.com/56480632/197452213-3e4b50ed-2b85-4656-ad4b-15365f527d5e.png">
 
 # step 3: install xcode
